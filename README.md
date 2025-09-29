@@ -20,53 +20,25 @@ Tasks/
 └── ...               # More tasks will be added as I learn
 
 🛠️ Technologies & Tools
-Frontend	Styling	Tools	Version Control
-HTML5	CSS3	VS Code	Git
-JavaScript	Tailwind CSS	Chrome DevTools	GitHub
+| Frontend   | Styling      | Tools           | Version Control |
+| ---------- | ------------ | --------------- | --------------- |
+| HTML5      | CSS3         | VS Code         | Git             |
+| JavaScript | Tailwind CSS | Chrome DevTools | GitHub          |
 
 🚀 How to View Projects
 
 Clone the repository:
-
 git clone https://github.com/YourUsername/web-development-tasks.git
-
-
 Navigate to a task folder:
-
 cd Tasks/Task01
-
-
-Open in browser:
-
-Open index.html directly, or
-
-Use Live Server in VS Code for hot reload
 
 🤝 Connect With Me
 
 
- 
-
-📝 Learning Notes
-
-Each task folder contains:
-
-Source code with comments
-
-Learning objectives and outcomes
-
-Challenges faced and solutions
-
-Future improvements
-
 🎓 Inspiration & Resources
-
 Course: Sheryians Cohort 2.0
-
 Docs: MDN Web Docs, W3Schools
-
 Community: Dev.to, Stack Overflow, GitHub
-
 Design Ideas: Dribbble, Behance, Awwwards
 
 🌟 "Every expert was once a beginner. Every pro was once an amateur." 🌟
