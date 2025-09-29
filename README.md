@@ -33,6 +33,7 @@ Navigate to a task folder:
 cd Tasks/Task01
 
 🎓 Inspiration & Resources
+
 Course: Sheryians Cohort 2.0
 
 Docs: MDN Web Docs, W3Schools
