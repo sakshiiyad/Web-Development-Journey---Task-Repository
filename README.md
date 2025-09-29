@@ -28,17 +28,17 @@ Tasks/
 🚀 How to View Projects
 
 Clone the repository:
-git clone https://github.com/YourUsername/web-development-tasks.git
+git clone https://github.com/sakshiiyad/web-development-tasks.git
 Navigate to a task folder:
 cd Tasks/Task01
 
-🤝 Connect With Me
-
-
 🎓 Inspiration & Resources
 Course: Sheryians Cohort 2.0
+
 Docs: MDN Web Docs, W3Schools
+
 Community: Dev.to, Stack Overflow, GitHub
+
 Design Ideas: Dribbble, Behance, Awwwards
 
 🌟 "Every expert was once a beginner. Every pro was once an amateur." 🌟
