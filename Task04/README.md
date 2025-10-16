@@ -1,31 +1,29 @@
-Flexbox User Cards
-This project is a simple frontend practice focused on understanding and applying CSS Flexbox properties. I created multiple user cards to explore different ways to align, distribute, and structure content on a page.
+# 🧑‍💻 Flexbox User Cards
 
-Features
-Features
+This project is a simple frontend practice where I created multiple **user cards** to learn and explore **CSS Flexbox** properties.
 
-Multiple responsive user cards
+## 🚀 Features
+- Multiple responsive user cards
+- Minimal and clean UI
+- Built using Flexbox layout
+- Practiced properties like:
+  - `display: flex`
+  - `justify-content`
+  - `align-items`
+  - `flex-wrap`
+  - `gap`
 
-Clean and minimal UI
+## 🧰 Tech Stack
+- **HTML5** – Structure
+- **CSS3** – Styling & Flexbox
 
-Flexbox used for layout and alignment
+## 📸 Preview
+![User Cards Preview](https://usercard01.netlify.app/)
 
-Practice with properties like:
+## 🏗️ What I Learned
+- How to build layouts using Flexbox
+- Aligning and distributing elements easily
+- Creating reusable card components
+- Making layouts responsive
 
-display: flex
 
-justify-content
-
-align-items
-
-flex-wrap
-
-gap
-
-🧰 Tech Stack
-
-HTML5 – for structure
-
-CSS3 – for styling and Flexbox properties
-
-📸 Preview
