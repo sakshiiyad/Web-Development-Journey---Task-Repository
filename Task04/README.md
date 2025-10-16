@@ -17,8 +17,8 @@ This project is a simple frontend practice where I created multiple **user cards
 - **HTML5** – Structure
 - **CSS3** – Styling & Flexbox
 
-## 📸 Preview
-![User Cards Preview](https://usercard01.netlify.app/)
+##  Preview
+**[User Cards Preview](https://usercard01.netlify.app/)
 
 ## 🏗️ What I Learned
 - How to build layouts using Flexbox
